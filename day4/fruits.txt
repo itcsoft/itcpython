@@ -1,0 +1,6 @@
+apple = '🍎'
+cherry = '🍒'
+banana = '🍌'
+lemon = '🍋'
+pizza = '🍕'
+watermelon = '🍉'

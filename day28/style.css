@@ -1,0 +1,72 @@
+body {
+    font-style: italic;
+    font-family: Arial;
+    background: #69f;
+}
+
+p {
+    color: red;
+    background: yellow;
+}
+
+strong {
+    background: #34a853;
+    font-size: 48px;
+}
+
+h1 {
+    font-size: 18px;
+}
+
+.student {
+    color: orange;
+    background: green;
+}
+
+.senior {
+    color: white;
+    background: #3b5998;
+}
+
+.boss {
+    background: black;
+    color: white;
+}
+
+.boss:active {
+    font-size: 48px;
+}
+
+div:hover {
+    background: white;
+    color: black;
+}
+
+.big-man {
+    color: white;
+    background: brown;
+}
+
+.javacript-senior {
+    color: black;
+    background: aqua;
+}
+
+.javacript-senior:hover {
+    background-color: purple;
+    color:aquamarine;
+}
+
+.brain-girl {
+    color: white;
+    background: blue;
+}
+
+#mentor {
+    color: red;
+    font-size: 24px;
+}
+
+.zalkar::first-letter {
+    color: blue;
+}
