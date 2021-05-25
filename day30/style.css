@@ -1,0 +1,32 @@
+.python_group {
+    border: 1px solid black;
+}
+.python_group caption {
+    border: 1px solid #69f;
+    background-color: #69f;
+    color: white;
+}
+
+.python_group td {
+    border: 1px solid blue;
+    padding: 10px;
+}
+
+.python_group tr:nth-child(3) {
+    background-color: crimson;
+}
+
+.bootcamp-block {
+    border: 1px solid blue;
+    background-color: burlywood;
+    padding: 15px;
+    margin-top: 15px;
+    margin-bottom: 30px;
+}
+
+.bootcamp-inline {
+    border: 1px solid blue;
+    background-color: burlywood;
+    padding: 15px;
+    margin-left: 40%;
+}
