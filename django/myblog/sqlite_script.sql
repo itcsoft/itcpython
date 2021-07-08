@@ -1,0 +1,5 @@
+-- Создание таблицы ToDo
+CREATE TABLE todos(
+	id INTEGER PRIMARY KEY AUTOINCREMENT,
+	todo_name VARCHAR(300) NULL DEFAULT NULL
+);
